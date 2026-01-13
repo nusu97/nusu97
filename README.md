@@ -26,16 +26,18 @@ I am a **Computer Science** student with a **Minor in Mathematics** at **Toronto
 
 | Project | Description | Tech Used |
 | :--- | :--- | :--- |
-| **[Amharic Wordle](https://github.com/nusu97/Amharic-Wordle-Game)** | A lightweight, client-side game featuring 4-letter Amharic words, flip animations, and confetti effects. | JavaScript, CSS, HTML |
-| **[ASL Interpreter](https://github.com/nusu97/American-sign-language-interpreter)** | A CV pipeline translating hand gestures to text via live webcam feed. | Python, TensorFlow, OpenCV |
-| **[Ethio Coffee](https://ethiocoffee.et)** | A responsive, SEO-friendly e-commerce brand site with a custom .et domain. | Next.js, TypeScript, Vercel |
+| **[ASL Interpreter](https://github.com/nusu97/American-sign-language-interpreter)** | A computer vision pipeline translating hand gestures to text via live webcam feed. | Python, TensorFlow, OpenCV |
+| **[Ethio Coffee](https://ethiocoffee.et)** | A responsive, SEO-friendly coffee brand site with dynamic product and blog routes. | Next.js, React, TypeScript |
+| **[Amharic Wordle](https://github.com/nusu97/Amharic-Wordle-Game)** | A client-side Wordle clone featuring 4-letter Amharic words and flip animations. | JavaScript, HTML, CSS |
 
 ---
 
 ### 📊 GitHub Activity
 
-![Nuseyba's GitHub stats](https://github-readme-stats.vercel.app/api?username=nusu97&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusu97&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nusu97&show_icons=true&theme=radical" alt="Nuseyba's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusu97&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
