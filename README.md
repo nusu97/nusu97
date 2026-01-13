@@ -32,15 +32,6 @@ I am a **Computer Science** student with a **Minor in Mathematics** at **Toronto
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusu97&show_icons=true&theme=radical" alt="Nuseyba's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusu97&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 - 💼 **LinkedIn:** [linkedin.com/in/Nuseyba](https://linkedin.com/in/Nuseyba)
 - 🌐 **Portfolio:** [nusu97.github.io/Portfolio/](https://nusu97.github.io/Portfolio/)
