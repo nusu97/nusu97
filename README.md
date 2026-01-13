@@ -26,9 +26,9 @@ I am a **Computer Science** student with a **Minor in Mathematics** at **Toronto
 
 | Project | Description | Tech Used |
 | :--- | :--- | :--- |
-| **[ASL Interpreter](https://github.com/nusu97/American-sign-language-interpreter)** | A CV pipeline translating hand gestures to text via live webcam[cite: 65]. | Python, TensorFlow, OpenCV |
-| **[Ethio Coffee](https://ethiocoffee.et)** | A responsive, SEO-friendly e-commerce brand site. | Next.js, TypeScript, Tailwind |
-| **[Rumi Poetry Gallery](#)** | A vibrant art gallery celebrating mystical poetry through web design. | HTML, CSS Grid, Flexbox |
+| **[Amharic Wordle](https://github.com/nusu97/Amharic-Wordle-Game)** | A lightweight, client-side game featuring 4-letter Amharic words, flip animations, and confetti effects. | JavaScript, CSS, HTML |
+| **[ASL Interpreter](https://github.com/nusu97/American-sign-language-interpreter)** | A CV pipeline translating hand gestures to text via live webcam feed. | Python, TensorFlow, OpenCV |
+| **[Ethio Coffee](https://ethiocoffee.et)** | A responsive, SEO-friendly e-commerce brand site with a custom .et domain. | Next.js, TypeScript, Vercel |
 
 ---
 
@@ -40,6 +40,6 @@ I am a **Computer Science** student with a **Minor in Mathematics** at **Toronto
 ---
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [linkedin.com/in/Nuseyba](https://linkedin.com/in/Nuseyba) 
-- 🌐 **Portfolio:** [nusu97.github.io/Portfolio/](https://nusu97.github.io/Portfolio/) 
-- 📧 **Email:** [nuseyba.mohammed@torontomu.ca](mailto:nuseyba.mohammed@torontomu.ca) 
+- 💼 **LinkedIn:** [linkedin.com/in/Nuseyba](https://linkedin.com/in/Nuseyba)
+- 🌐 **Portfolio:** [nusu97.github.io/Portfolio/](https://nusu97.github.io/Portfolio/)
+- 📧 **Email:** [nuseyba.mohammed@torontomu.ca](mailto:nuseyba.mohammed@torontomu.ca)
