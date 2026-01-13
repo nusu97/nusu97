@@ -27,7 +27,7 @@ I am a **Computer Science** student with a **Minor in Mathematics** at **Toronto
 | Project | Description | Tech Used |
 | :--- | :--- | :--- |
 | **[ASL Interpreter](https://github.com/nusu97/American-sign-language-interpreter)** | A computer vision pipeline translating hand gestures to text via live webcam feed. | Python, TensorFlow, OpenCV |
-| **[Ethio Coffee](https://ethiocoffee.et)** | A responsive, SEO-friendly coffee brand site with dynamic product and blog routes. | Next.js, React, TypeScript |
+| **[Ethio Coffee](https://github.com/nusu97/ethio-coffee-rethemed)** | A responsive, SEO-friendly coffee brand site with dynamic product and blog routes. | Next.js, React, TypeScript |
 | **[Amharic Wordle](https://github.com/nusu97/Amharic-Wordle-Game)** | A client-side Wordle clone featuring 4-letter Amharic words and flip animations. | JavaScript, HTML, CSS |
 
 ---
