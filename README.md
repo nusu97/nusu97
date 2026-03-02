@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1a5276,100:64ffda&height=220&section=header&text=Nuseyba%20Mohammed&fontSize=42&fontColor=e6f1ff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55&descColor=64ffda" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+scalable+full-stack+%26+ML+solutions;B.Sc.+Computer+Science+%40+Toronto+Metropolitan;Dean's+List+%7C+Hackathon+Winner+%7C+AI+Trainer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+scalable+full-stack+%26+ML+solutions;B.Sc.+Computer+Science+%40+Toronto+Metropolitan;Dean's+List+%7C+Hackathon+Top+15+%7C+AI+Trainer" alt="Typing SVG" /></a>
 
 <!-- Profile Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-nusu97.github.io-64ffda?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nusu97.github.io/Portfolio/)
