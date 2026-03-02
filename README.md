@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1a5276,100:64ffda&height=220&section=header&text=Nuseyba%20Mohammed&fontSize=42&fontColor=e6f1ff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55&descColor=64ffda" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+scalable+full-stack+%26+ML+solutions;B.Sc.+Computer+Science+%40+Toronto+Metropolitan;Dean's+List+%7C+Hackathon+Top+15+%7C+AI+Trainer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+scalable+full-stack+%26+ML+solutions;B.Sc.+Computer+Science+%40+Toronto+Metropolitan;Dean's+List+%7C+Hackathon+Winner+%7C+AI+Trainer" alt="Typing SVG" /></a>
 
 <!-- Profile Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-nusu97.github.io-64ffda?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nusu97.github.io/Portfolio/)
@@ -98,7 +98,7 @@ interests:
 <tr>
 <td width="50%">
 
-### [Advertisement Against Adversity](https://github.com/nusu97)
+### [Advertisement Against Adversity](https://github.com/nusu97/Advertisement-Against-Adversity)
 **Ummahack 2026 - Hackathon Project**
 
 Ethical ad-tech Chrome extension with real-time data pipelines, verified attention tracking via Page Visibility API, and Firebase atomic transactions for earnings persistence. Architected a scalable Firebase backend with REST APIs and a 50/30/20 revenue-sharing model.
@@ -130,12 +130,12 @@ Production e-commerce app with PayPal checkout, persistent cart state, DHL shipp
 </td>
 <td width="50%">
 
-### [Amharic Wordle](https://github.com/nusu97/Amharic-Wordle-Game)  ·  [Play Now](https://amharic-wordle-game.vercel.app/)
-**Client-Side Word Game**
+### [CoinLand](https://github.com/nusu97/CoinLand)
+**Interactive Finance Game for Kids**
 
-A fully client-side Wordle-style game for 4-letter Amharic words with flip animations, toasts, help modal, and confetti. Deployed on Vercel.
+A stock market simulation game for kids ages 7-12 with kid-friendly trading, a virtual room marketplace, parental controls, and progress tracking with streaks and achievements. Built for ElleHacks 2026.
 
-`JavaScript` `HTML5` `CSS3` `Vercel`
+`React` `TypeScript` `FastAPI` `Supabase` `Phaser.js` `TailwindCSS`
 
 </td>
 </tr>
@@ -167,6 +167,18 @@ A fully client-side Wordle-style game for 4-letter Amharic words with flip anima
 
 <a href="https://github.com/nusu97">
   <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nusu97&layout=compact&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&cache_seconds=86400" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
+## <img src="https://img.shields.io/badge/-GitHub_Trophies-0a192f?style=flat-square" height="28" />
+
+<div align="center">
+
+<a href="https://github.com/nusu97">
+  <img src="https://github-profile-trophy.vercel.app/?username=nusu97&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </a>
 
 </div>
