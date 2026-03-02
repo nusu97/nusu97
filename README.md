@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1a5276,100:64ffda&height=220&section=header&text=Nuseyba%20Mohammed&fontSize=42&fontColor=e6f1ff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55&descColor=64ffda" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+scalable+full-stack+%26+ML+solutions+%F0%9F%9A%80;B.Sc.+Computer+Science+%40+Toronto+Metropolitan+%F0%9F%8E%93;Dean's+List+%7C+Hackathon+Winner+%7C+AI+Trainer+%F0%9F%8F%86" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Building+scalable+full-stack+%26+ML+solutions;B.Sc.+Computer+Science+%40+Toronto+Metropolitan;Dean's+List+%7C+Hackathon+Winner+%7C+AI+Trainer" alt="Typing SVG" /></a>
 
 <!-- Profile Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-nusu97.github.io-64ffda?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nusu97.github.io/Portfolio/)
@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## About Me
 
 ```yaml
 name: Nuseyba Mohammed
@@ -30,7 +30,7 @@ current_roles:
   - Full-Stack Developer & ML Enthusiast
 achievements:
   - "Resolved 50+ patron inquiries per shift with 98% accuracy"
-  - "Top 10% AI Trainer at Outlier — evaluated 200+ algorithm solutions"
+  - "Top 10% AI Trainer at Outlier - evaluated 200+ algorithm solutions"
   - "Improved ML model accuracy by 15% through structured feedback"
   - "Built real-time CV pipeline with 90%+ classification confidence"
 interests:
@@ -42,7 +42,7 @@ interests:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -90,7 +90,7 @@ interests:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -98,8 +98,8 @@ interests:
 <tr>
 <td width="50%">
 
-### 🛡️ [Advertisement Against Adversity](https://github.com/nusu97)
-**Ummahack 2026 — Hackathon Project**
+### [Advertisement Against Adversity](https://github.com/nusu97)
+**Ummahack 2026 - Hackathon Project**
 
 Ethical ad-tech Chrome extension with real-time data pipelines, verified attention tracking via Page Visibility API, and Firebase atomic transactions for earnings persistence. Architected a scalable Firebase backend with REST APIs and a 50/30/20 revenue-sharing model.
 
@@ -108,10 +108,10 @@ Ethical ad-tech Chrome extension with real-time data pipelines, verified attenti
 </td>
 <td width="50%">
 
-### 🤟 [ASL Interpreter](https://github.com/nusu97/American-sign-language-interpreter)
+### [ASL Interpreter](https://github.com/nusu97/American-sign-language-interpreter)
 **Real-Time Computer Vision Pipeline**
 
-Achieved **90%+ classification confidence** translating hand gestures to text via live webcam. Fine-tuned SSD MobileNet V2 to converge in under **10K training steps**. Managed full ML lifecycle — annotated **500+ custom images** through deployment.
+Achieved **90%+ classification confidence** translating hand gestures to text via live webcam. Fine-tuned SSD MobileNet V2 to converge in under **10K training steps**. Managed full ML lifecycle, annotating **500+ custom images** through deployment.
 
 `Python` `TensorFlow` `OpenCV` `NumPy` `Pandas`
 
@@ -120,7 +120,7 @@ Achieved **90%+ classification confidence** translating hand gestures to text vi
 <tr>
 <td width="50%">
 
-### ☕ [Ethio Coffee](https://github.com/nusu97/ethio-coffee-rethemed)  ·  [ethiocoffee.co](https://www.ethiocoffee.co/)
+### [Ethio Coffee](https://github.com/nusu97/ethio-coffee-rethemed)  ·  [ethiocoffee.co](https://www.ethiocoffee.co/)
 **Full-Stack E-Commerce Platform**
 
 Production e-commerce app with PayPal checkout, persistent cart state, DHL shipping API integration. Engineered **15+ SEO-optimized pages** with dynamic routing, React lazy loading, and Framer Motion animations.
@@ -130,7 +130,7 @@ Production e-commerce app with PayPal checkout, persistent cart state, DHL shipp
 </td>
 <td width="50%">
 
-### 🔤 [Amharic Wordle](https://github.com/nusu97/Amharic-Wordle-Game)  ·  [Play Now](https://amharic-wordle-game.vercel.app/)
+### [Amharic Wordle](https://github.com/nusu97/Amharic-Wordle-Game)  ·  [Play Now](https://amharic-wordle-game.vercel.app/)
 **Client-Side Word Game**
 
 A fully client-side Wordle-style game for 4-letter Amharic words with flip animations, toasts, help modal, and confetti. Deployed on Vercel.
@@ -145,16 +145,16 @@ A fully client-side Wordle-style game for 4-letter Amharic words with flip anima
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Period | Highlights |
 |:-----|:--------|:------:|:-----------|
-| **Circulation Desk Assistant** | TMU Library | May 2025 – Present | 50+ inquiries/shift · 20% faster resolution · 98% processing accuracy |
-| **AI Trainer / Mathematics** | Outlier (Remote) | Jun – Oct 2024 | 200+ solutions evaluated · 15% model accuracy improvement · Top 10% contributor |
+| **Circulation Desk Assistant** | TMU Library | May 2025 - Present | 50+ inquiries/shift, 20% faster resolution, 98% processing accuracy |
+| **AI Trainer / Mathematics** | Outlier (Remote) | Jun - Oct 2024 | 200+ solutions evaluated, 15% model accuracy improvement, Top 10% contributor |
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -167,7 +167,7 @@ A fully client-side Wordle-style game for 4-letter Amharic words with flip anima
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -179,13 +179,13 @@ A fully client-side Wordle-style game for 4-letter Amharic words with flip anima
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
 I'm always open to interesting conversations and collaboration opportunities.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nusu97.github.io-64ffda?style=flat-square)](https://nusu97.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Nuseyba-0A66C2?style=flat-square)](https://linkedin.com/in/nuseyba/)
-[![Email](https://img.shields.io/badge/📧_Email-nuseyba.mohammed@torontomu.ca-EA4335?style=flat-square)](mailto:nuseyba.mohammed@torontomu.ca)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nusu97.github.io-64ffda?style=flat-square&logo=google-chrome&logoColor=white)](https://nusu97.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nuseyba-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuseyba/)
+[![Email](https://img.shields.io/badge/Email-nuseyba.mohammed@torontomu.ca-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nuseyba.mohammed@torontomu.ca)
 
 ---
 
