@@ -173,18 +173,6 @@ A fully client-side Wordle-style game for 4-letter Amharic words with flip anima
 
 ---
 
-## <img src="https://img.shields.io/badge/-GitHub_Trophies-0a192f?style=flat-square" height="28" />
-
-<div align="center">
-
-<a href="https://github.com/nusu97">
-  <img src="https://github-profile-trophy.vercel.app/?username=nusu97&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### <img src="https://img.shields.io/badge/-Let's_Connect-0a192f?style=flat-square" height="24" />
