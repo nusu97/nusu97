@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## <img src="https://img.shields.io/badge/-About_Me-0a192f?style=flat-square" height="28" /> 
 
 ```yaml
 name: Nuseyba Mohammed
@@ -42,7 +42,7 @@ interests:
 
 ---
 
-## Tech Stack
+## <img src="https://img.shields.io/badge/-Tech_Stack-0a192f?style=flat-square" height="28" />
 
 <div align="center">
 
@@ -90,7 +90,7 @@ interests:
 
 ---
 
-## Featured Projects
+## <img src="https://img.shields.io/badge/-Featured_Projects-0a192f?style=flat-square" height="28" />
 
 <div align="center">
 
@@ -145,7 +145,7 @@ A fully client-side Wordle-style game for 4-letter Amharic words with flip anima
 
 ---
 
-## Experience
+## <img src="https://img.shields.io/badge/-Experience-0a192f?style=flat-square" height="28" />
 
 | Role | Company | Period | Highlights |
 |:-----|:--------|:------:|:-----------|
@@ -154,24 +154,32 @@ A fully client-side Wordle-style game for 4-letter Amharic words with flip anima
 
 ---
 
-## GitHub Analytics
+## <img src="https://img.shields.io/badge/-GitHub_Analytics-0a192f?style=flat-square" height="28" />
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nusu97&show_icons=true&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&ring_color=64ffda" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nusu97&theme=react&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8892b0" />
+<a href="https://github.com/nusu97">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nusu97&show_icons=true&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&ring_color=64ffda&cache_seconds=86400" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/nusu97">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=nusu97&theme=react&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8892b0" alt="GitHub Streak" />
+</a>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusu97&layout=compact&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" />
+<a href="https://github.com/nusu97">
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nusu97&layout=compact&theme=react&hide_border=true&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&cache_seconds=86400" alt="Top Languages" />
+</a>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## <img src="https://img.shields.io/badge/-GitHub_Trophies-0a192f?style=flat-square" height="28" />
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nusu97&theme=algolia&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/nusu97">
+  <img src="https://github-profile-trophy.vercel.app/?username=nusu97&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</a>
 
 </div>
 
@@ -179,7 +187,7 @@ A fully client-side Wordle-style game for 4-letter Amharic words with flip anima
 
 <div align="center">
 
-### Let's Connect
+### <img src="https://img.shields.io/badge/-Let's_Connect-0a192f?style=flat-square" height="24" />
 
 I'm always open to interesting conversations and collaboration opportunities.
 
