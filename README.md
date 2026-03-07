@@ -98,7 +98,7 @@ interests:
 <tr>
 <td width="50%">
 
-### [Advertisement Against Adversity](https://github.com/nusu97/Advertisement-Against-Adversity)
+### [Advertisement Against Adversity](https://github.com/nusu97/Advertisement-Against-Adversity)  ·  [Live Demo](https://advertisement-against-adversity.vercel.app/)
 **Ummahack 2026 - Hackathon Project**
 
 Ethical ad-tech Chrome extension with real-time data pipelines, verified attention tracking via Page Visibility API, and Firebase atomic transactions for earnings persistence. Architected a scalable Firebase backend with REST APIs and a 50/30/20 revenue-sharing model.
@@ -130,7 +130,7 @@ Production e-commerce app with PayPal checkout, persistent cart state, DHL shipp
 </td>
 <td width="50%">
 
-### [CoinLand](https://github.com/nusu97/CoinLand)
+### [CoinLand](https://github.com/nusu97/CoinLand)  ·  [Live Demo](https://coin-land-ten.vercel.app/)
 **Interactive Finance Game for Kids**
 
 A stock market simulation game for kids ages 7-12 with kid-friendly trading, a virtual room marketplace, parental controls, and progress tracking with streaks and achievements. Built for ElleHacks 2026.
